@@ -1,0 +1,38 @@
+{
+  "main": [
+    {
+      "name": "Blogs",
+      "url": "/"
+    },
+    {
+      "name": "Categories",
+      "url": "/categories"
+    },
+    {
+      "name": "Tags",
+      "url": "/tags"
+    },
+    {
+      "name": "About",
+      "url": "/about"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Blogs",
+      "url": "/"
+    },
+    {
+      "name": "Categories",
+      "url": "/categories"
+    },
+    {
+      "name": "Tags",
+      "url": "/tags"
+    },
+    {
+      "name": "About",
+      "url": "/about"
+    }
+  ]
+}

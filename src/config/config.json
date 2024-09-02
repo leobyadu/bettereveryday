@@ -1,0 +1,35 @@
+{
+  "site": {
+    "title": "1% Better Every Day Blog",
+    "base_url": "https://blog.imirai.net",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_width": "200",
+    "logo_height": "34",
+    "logo_text": "Imirai"
+  },
+
+  "settings": {
+    "pagination": 5,
+    "summary_length": 100
+  },
+
+  "metadata": {
+    "meta_author": "Le Bao",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Imirai Daily Blog ©️2024"
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "Imirai Daily Blog ©️2024"
+  },
+
+  "contactinfo": {
+    "address": "Viet Nam",
+    "email": "contact@imirai.net",
+    "phone": "+84946379253"
+  }
+}
