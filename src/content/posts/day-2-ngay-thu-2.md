@@ -5,7 +5,7 @@ date: 2024-09-03
 image: "/images/posts/02.jpg"
 categories: ["Hành trình tốt hơn mỗi ngày"]
 authors: ["Le Bao"]
-tags: ["code"]
+tags: ["Code"]
 draft: false
 ---
 
@@ -23,3 +23,5 @@ Hình ảnh site sau khi đã public thành công:
 
 Giờ bắt đầu định hướng viết bài blog cho website. 1% ngày hôm nay có thể chỉ có vậy thôi. 
 Tới đây thì mình đã có thể viết cách build 1 blog bằng astro và public site lên vercel. Thấy cũng thú vị. Học code cũng vui phải không. 😉
+
+P/s: Thumbnail image by freepik

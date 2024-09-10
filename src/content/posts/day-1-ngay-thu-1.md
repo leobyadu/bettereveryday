@@ -5,7 +5,7 @@ date: 2024-09-02
 image: "/images/posts/quoc_ky.webp"
 categories: ["Hành trình tốt hơn mỗi ngày"]
 authors: ["Le Bao"]
-tags: ["code"]
+tags: ["Code"]
 draft: false
 ---
 
